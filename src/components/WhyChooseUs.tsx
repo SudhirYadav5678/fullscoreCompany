@@ -4,19 +4,19 @@ import { StickyScroll } from "./ui/sticky-scroll-reveal";
 
 const musicSchoolContent = [
     {
-      title: 'Discover Your Sound with Us: A Personal Journey in Music Mastery',
+      title: 'Discover Your Sound with Us: A Personal Journey in Mastery',
       description:
-        'Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
+        'Embark on a journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
     },
     {
-      title: 'Discover Your Sound with Us: A Personal Journey in Music Mastery',
+      title: 'Discover Your Sound with Us: A Personal Journey  Mastery',
       description:
-        'Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
+        'Embark on a  journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
     },
     {
-      title: 'Discover Your Sound with Us: A Personal Journey in Music Mastery',
+      title: 'Discover Your Sound with Us: A Personal Journey  Mastery',
       description:
-        'Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
+        'Embark on a journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
     },
     {
       title: 'Live Feedback & Engagement',
